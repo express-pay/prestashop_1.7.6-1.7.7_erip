@@ -1,0 +1,124 @@
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T11:45:52+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T11:45:52+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":1,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"25",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+ERROR - IP - 127.0.0.1; DATETIME - 2020-04-08T11:45:52+03:00; FUNCTION - postProcess; MESSAGE -  CMDTYPE ERROR- 1;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T11:48:09+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T11:48:09+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":1,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"25",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+ERROR - IP - 127.0.0.1; DATETIME - 2020-04-08T11:48:09+03:00; FUNCTION - postProcess; MESSAGE -  CMDTYPE ERROR- 1;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T11:50:29+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T11:50:29+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":3,
+  "Status":3,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"25",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:09:56+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:09:56+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":3,
+  "Status":3,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"25",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:12:38+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:12:38+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":3,
+  "Status":3,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"25",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:13:13+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:13:13+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:13:13+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":3,
+  "Status":3,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"25",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:17:45+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:17:45+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:17:45+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":3,
+  "Status":3,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"25",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:18:16+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:18:16+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:18:16+03:00; FUNCTION - postProcess; MESSAGE - useSignature - ;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:18:16+03:00; FUNCTION - postProcess; MESSAGE - secretWord - ;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:18:16+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":3,
+  "Status":3,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"19",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:18:19+03:00; FUNCTION - postProcess; MESSAGE - Order payment success;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:41:55+03:00; FUNCTION - postProcess; MESSAGE - start notification;
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:41:55+03:00; FUNCTION - postProcess; MESSAGE - data received; DATA - {
+  "CmdType":3,
+  "Status":3,
+  "InvoiceNo":850827,
+  "PaymentNo":1082,
+  "AccountNo":"21",
+  "Amount":"19",
+  "Created":"20160217122109",
+  "Service":"mydomain.by",
+  "Payer":"",
+  "Address":""
+};
+INFO - IP - 127.0.0.1; DATETIME - 2020-04-08T12:41:56+03:00; FUNCTION - postProcess; MESSAGE - Order payment success;
